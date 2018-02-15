@@ -6,3 +6,7 @@ S-box is a utility library consists of many tiny libraries. S-box is a single re
 
 Although s-box has just started, I'll collect my previous libraries on 
 https://github.com/kmizu into s-box in the future.
+
+## LICENSE
+
+[MIT LICENSE](LICENSE)
