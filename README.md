@@ -1,7 +1,6 @@
 # s-box
 
-[![Build Status](https://travis-ci.org/s-box/s-box.png?branch=master)](https
-://travis-ci.org/s-box/s-box)
+[![Build Status](https://travis-ci.org/s-box/s-box.png?branch=master)](https://travis-ci.org/s-box/s-box)
 
 A Scala utility box which is convenient for daily Scala programming
 
