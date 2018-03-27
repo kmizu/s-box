@@ -1,5 +1,8 @@
 # s-box
 
+[![Build Status](https://travis-ci.org/s-box/s-box.png?branch=master)](https
+://travis-ci.org/s-box/s-box)
+
 A Scala utility box which is convenient for daily Scala programming
 
 S-box is a utility library consists of many tiny libraries. S-box is a single repository library to resolve dependency hell in Scala. It aims a convenient library for daily programming in Scala.
